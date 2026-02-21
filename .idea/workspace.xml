@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1525139f-eb80-4893-92aa-fabe849c1a53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab03_Looping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1_ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2_CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3_GradeAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4_RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task5_NumberGuessing.java" afterDir="false" />
-    </list>
+    <list default="true" id="1525139f-eb80-4893-92aa-fabe849c1a53" name="Changes" comment="lab03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +23,9 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -78,11 +69,43 @@
       <updated>1771632739566</updated>
       <workItem from="1771632741267" duration="645000" />
       <workItem from="1771634611564" duration="597000" />
-      <workItem from="1771636035712" duration="497000" />
+      <workItem from="1771636035712" duration="853000" />
     </task>
+    <task id="LOCAL-00001" summary="lab03">
+      <option name="closed" value="true" />
+      <created>1771636874710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771636874710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab03">
+      <option name="closed" value="true" />
+      <created>1771636942231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771636942231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab03" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab03" />
   </component>
 </project>
